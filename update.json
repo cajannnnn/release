@@ -1,7 +1,7 @@
 {
     "update": true,
     "new_version": "0.0.2",
-    "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk",
+    "apk_file_url": "https://raw.githubusercontent.com/cajannnnn/release/android/zjyc.apk",
     "update_log": "1，接入最新监管接口 \r\n2，支持自动更新",
     "target_size": "5M",
     "new_md5": "b97bea014531123f94c3ba7b7afbaad2",
