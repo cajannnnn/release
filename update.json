@@ -1,7 +1,7 @@
 {
 "force": true,
 "version": "1.0.1",
-"apkUrl": "https://imtt.dd.qq.com/16891/apk/E35751FE2A67281389BEE08E06CD3740.apk?fsname=com.tencent.mtt_9.6.1.5190_9615190.apk&csr=1bbd",
+"apkUrl": "https://raw.githubusercontent.com/cajannnnn/release/master/android.apk",
 "title": "有新版本了",
 "content": "1，ctp。\r\n2，支持自动更新",
 "targetSize": "5M",
